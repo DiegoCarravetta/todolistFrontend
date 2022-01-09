@@ -1,0 +1,25 @@
+.btn {
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 10px;
+  outline: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.normal {
+  background: green;
+  color: #fff;
+}
+
+.erro {
+  background: red;
+  color: #fff;
+}
+
+.sucesso {
+  background: black;
+  color: #fff;
+}

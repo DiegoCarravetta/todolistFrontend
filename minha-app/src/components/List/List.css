@@ -1,0 +1,13 @@
+.dados {
+  color: black;
+  padding: 0 2rem;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li {
+  padding-right: 2rem;
+}
